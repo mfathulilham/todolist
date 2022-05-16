@@ -1,4 +1,5 @@
-# Live demo [here](https://mfathulilham.github.io/todolist/).
+# Live demo
+Click [here](https://mfathulilham.github.io/todolist/).
 
 # Getting Started with Create React App
 
